@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 capgemini hjfkjfkljdkl
 
 lkf;lakf;lka;lfk
 jakjfkaklklk
 capgemini meda kotali
+=======
+capgemini hjfkjfkljdkl
+>>>>>>> 6f58e57... a
+hii

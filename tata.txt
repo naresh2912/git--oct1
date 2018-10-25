@@ -1,5 +1,6 @@
 klsafjklfjaklfjlkajfdsfsdfvaf
 
+<<<<<<< HEAD
 tata con
 jflksjglkkja
 tata is a greatman.
@@ -9,3 +10,6 @@ lslfjklagkagv,sngkdmn
 jndksjgklnkglklsmg
 mjklgsjljmlksglg
 jgkljlsgkjlks
+=======
+tata con
+>>>>>>> 6f58e57... a
